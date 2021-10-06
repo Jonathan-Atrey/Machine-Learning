@@ -9,6 +9,7 @@ Created on Sat Nov  7 16:11:55 2020
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
+import seaborn as sc
 
 dataset = pd.read_csv("dataprepro.csv")
 
